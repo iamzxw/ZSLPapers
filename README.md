@@ -17,3 +17,4 @@ Must-read papers on Zero-Shot Learning (ZSL)
 | Synthesizing samples for zero-shot learning | IJCAI 2017 |   |   |
 | From zero-shot learning to conventional supervised classification: Unseen visual data synthesis | CVPR 2017 |   |   |
 | Zero-shot learning using synthesised unseen visual data with diffusion regularisation | IEEE 2017 |   |   |
+| [Generating Visual Representations for Zero-Shot Classification](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Bucher_Generating_Visual_Representations_ICCV_2017_paper.pdf) | ICCV 2017 |   |   |
