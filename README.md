@@ -10,11 +10,13 @@ Must-read papers on Zero-Shot Learning (ZSL)
 ### Generative Model for (G)ZSL
 | Paper | remark |    |  |
 | -------------- | -------------- | -------------- | -------------- |
+| [Zero-Shot Learning via Class-Conditioned Deep Generative Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16087/16709)| AAAI2018 |  |  |
 | [Generalized Zero-Shot Learning via Synthesized Examples](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf) | CVPR 2018 |   |   |
 | [A Generative Model For Zero Shot Learning Using Conditional Variational Autoencoders](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w42/Mishra_A_Generative_Model_CVPR_2018_paper.pdf) | CVPR 2018 |   |   |
 | Feature Generating Networks for Zero-Shot Learning | CVPR 2018 |   |   |
 | Generating visual representations for zero-shot classification | CoRR 2017 |   |   |
 | Synthesizing samples for zero-shot learning | IJCAI 2017 |   |   |
+| [A Simple Exponential Family Framework for Zero-Shot Learning](https://arxiv.org/pdf/1707.08040.pdf)| ECML-PKDD 2017 |||
 | From zero-shot learning to conventional supervised classification: Unseen visual data synthesis | CVPR 2017 |   |   |
 | Zero-shot learning using synthesised unseen visual data with diffusion regularisation | IEEE 2017 |   |   |
 | [Generating Visual Representations for Zero-Shot Classification](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Bucher_Generating_Visual_Representations_ICCV_2017_paper.pdf) | ICCV 2017 |   |   |
