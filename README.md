@@ -10,6 +10,7 @@ Must-read papers on Zero-Shot Learning (ZSL)
 ### Generative Model for (G)ZSL
 | Paper | remark |    |  |
 | -------------- | -------------- | -------------- | -------------- |
+| [Generative Dual Adversarial Network for Generalized Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf)| CVPR 2019 | | |
 | [Zero-Shot Learning via Class-Conditioned Deep Generative Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16087/16709)| AAAI2018 |  |  |
 | [Generalized Zero-Shot Learning via Synthesized Examples](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf) | CVPR 2018 |   |   |
 | [A Generative Model For Zero Shot Learning Using Conditional Variational Autoencoders](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w42/Mishra_A_Generative_Model_CVPR_2018_paper.pdf) | CVPR 2018 |   |   |
