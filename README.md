@@ -18,5 +18,5 @@ Must-read papers on Zero-Shot Learning (ZSL)
 | [Synthesizing samples for zero-shot learning](https://eprints.lancs.ac.uk/id/eprint/87899/1/ijcai2017_submission_yuchenzeroshot.pdf) | IJCAI 2017 |   |   |
 | [A Simple Exponential Family Framework for Zero-Shot Learning](https://arxiv.org/pdf/1707.08040.pdf)| ECML-PKDD 2017 |||
 | [From zero-shot learning to conventional supervised classification: Unseen visual data synthesis](http://openaccess.thecvf.com/content_cvpr_2017/papers/Long_From_Zero-Shot_Learning_CVPR_2017_paper.pdf) | CVPR 2017 |   |   |
-| Zero-shot learning using synthesised unseen visual data with diffusion regularisation | IEEE 2017 |   |   |
+| [Zero-shot learning using synthesised unseen visual data with diffusion regularisation](https://ueaeprints.uea.ac.uk/65217/1/PAMI_Long.pdf) | IEEE 2017 |   |   |
 | [Generating Visual Representations for Zero-Shot Classification](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Bucher_Generating_Visual_Representations_ICCV_2017_paper.pdf) | ICCV 2017 |   |   |
