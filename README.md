@@ -10,8 +10,8 @@ Must-read papers on Zero-Shot Learning (ZSL)
 ### Generative Model for (G)ZSL
 | Paper | remark |    |  |
 | -------------- | -------------- | -------------- | -------------- |
-| Generalized Zero-Shot Learning via Synthesized Examples | CVPR 2018 |   |   |
-| A Generative Model For Zero Shot Learning Using Conditional Variational Autoencoders | CVPR 2018 |   |   |
+| [Generalized Zero-Shot Learning via Synthesized Examples](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf) | CVPR 2018 |   |   |
+| [A Generative Model For Zero Shot Learning Using Conditional Variational Autoencoders](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w42/Mishra_A_Generative_Model_CVPR_2018_paper.pdf) | CVPR 2018 |   |   |
 | Feature Generating Networks for Zero-Shot Learning | CVPR 2018 |   |   |
 | Generating visual representations for zero-shot classification | CoRR 2017 |   |   |
 | Synthesizing samples for zero-shot learning | IJCAI 2017 |   |   |
